@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just a regular person with coding habits.
+Hi, I'm Jimly Firdaus, currently a sophomore at the Bandung Institute of Technology (ITB) majoring in Computer Science. I have a lot of enthusiasm for technology, web development and learning new stacks.
 
 
 ## 🌐 Socials:
