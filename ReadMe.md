@@ -6,7 +6,6 @@ Hi, I'm Jimly Firdaus, currently a sophomore at the Bandung Institute of Technol
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [jimlyfirdaus@gmail.com](mailto:jimlyfirdaus@gmail.com)
 * 🚀  I'm currently working on [Vue Project](http://kitesense.ai)
-* 🧠  I'm learning Axios, Go
 
 ### Skills
 
@@ -34,13 +33,9 @@ Hi, I'm Jimly Firdaus, currently a sophomore at the Bandung Institute of Technol
 
 <p align="left"> <a href="https://discord.com/users/2205" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Jimly-Firdaus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jimlyfirdaus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jimlyfirdausgm1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+### My Github Stats
 
-<b>My GitHub Stats</b>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimly-Firdaus)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimly-Firdaus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
+![Jimly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimly-Firdaus&show_icons=true&theme=tokyonight)
 
-<a href="http://www.github.com/Jimly-Firdaus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jimly-Firdaus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Jimly-Firdaus"><img src="https://activity-graph.herokuapp.com/graph?username=Jimly-Firdaus&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Jimly-Firdaus" align="left"><img src="https://jimlyfirdaus-stats.vercel.app/api/top-langs/?username=Jimly-Firdaus&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
