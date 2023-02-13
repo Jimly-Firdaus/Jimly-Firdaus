@@ -37,8 +37,7 @@ Hi, I'm Jimly Firdaus, currently a sophomore at the Bandung Institute of Technol
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Jimly-Firdaus"><img src="https://jimlyfirdaus-stats.vercel.app/api?username=Jimly-Firdaus&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Jimly-Firdaus's GitHub stats" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimly-Firdaus)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="http://www.github.com/Jimly-Firdaus"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jimly-Firdaus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
