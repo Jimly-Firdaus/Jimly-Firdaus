@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jimly Firdaus</h1>
-<h3 align="center">A sophomore at the Bandung Institute of Technology (ITB) majoring in Computer Science</h3>
+<h3 align="center">A fresh graduate from Bandung Institute of Technology (ITB) majoring in Computer Science</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimly-firdaus&theme=onedark&row=1&column=5" alt="jimly-firdaus" /></a> </p>
 
