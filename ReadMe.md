@@ -2,6 +2,7 @@
 <h3 align="center">A fresh graduate from Bandung Institute of Technology (ITB) majoring in Computer Science</h3>
 
 - 📫 How to reach me **jimlyfirdaus@gmail.com**
+- <a href="https://omnfc.me/" target="_blank">Portfolio site</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
